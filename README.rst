@@ -13,7 +13,7 @@ Requires setuptools_git (https://github.com/ygingras/setuptools-git)
 
 Download the package
 
-Run ``python setup.py isntall``.
+Run ``python setup.py install``.
 
 Then, add ``redjack.sphinx.lua`` to your conf.py::
 
